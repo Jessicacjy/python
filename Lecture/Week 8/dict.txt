@@ -1,0 +1,12 @@
+The
+objects 
+in
+a
+collection
+or
+map
+can
+be
+of
+any
+type
